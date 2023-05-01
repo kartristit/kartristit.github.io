@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kartristit.github.io/sitemap.xml
